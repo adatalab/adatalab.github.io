@@ -37,7 +37,6 @@ p {
 
 .bg-primary {
   background-color: #66CDAA; }
-  /* background-color: #F05F40; } */
 
 .bg-dark {
   background-color: #222;
@@ -264,7 +263,7 @@ header {
     background-color: #66CDAA;
     border-color: #66CDAA; }
   .btn-primary .badge {
-    color: ##66CDAA;
+    color: #66CDAA;
     background-color: white; }
 
 .btn {
