@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpeg');
+    background-image: url('../img/header1.gif');
     text-align: center;
     color: white;
     .header-content {
@@ -300,7 +300,7 @@ header {
 }
 
 .btn-primary {
-    @include button-variant(white, $theme-primary, $theme-primary);
+    @include button-variant(black, $theme-primary, $theme-primary);
 }
 
 .btn {
